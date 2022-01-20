@@ -1,0 +1,19 @@
+body{
+    background-color:lightsalmon;
+    color: rgb(83, 205, 221);
+    font-family: "Trirong", serif;
+}
+h1{
+    color: darkgreen;
+    text-align: center;
+}
+h2{
+    color:darkred;
+    text-align: center;
+}
+#kep{
+    text-align: center;
+}
+button{
+    margin-top: 10px;
+}

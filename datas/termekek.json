@@ -1,0 +1,800 @@
+[
+    {
+        "id": "1",
+        "nev": "Tatár beefsteak",
+        "ar": "2990.00",
+        "etel": "1",
+        "kategoriaId": "1"
+    },
+    {
+        "id": "2",
+        "nev": "Húsleves",
+        "ar": "1190.00",
+        "etel": "1",
+        "kategoriaId": "2"
+    },
+    {
+        "id": "3",
+        "nev": "Gulyásleves",
+        "ar": "1390.00",
+        "etel": "1",
+        "kategoriaId": "2"
+    },
+    {
+        "id": "4",
+        "nev": "Francia hagymaleves ",
+        "ar": "790.00",
+        "etel": "1",
+        "kategoriaId": "2"
+    },
+    {
+        "id": "5",
+        "nev": "Sajtkrém leves",
+        "ar": "990.00",
+        "etel": "1",
+        "kategoriaId": "2"
+    },
+    {
+        "id": "6",
+        "nev": "Csülkös babalé csésze",
+        "ar": "990.00",
+        "etel": "1",
+        "kategoriaId": "2"
+    },
+    {
+        "id": "7",
+        "nev": "Csülkös bablé tányér",
+        "ar": "1390.00",
+        "etel": "1",
+        "kategoriaId": "2"
+    },
+    {
+        "id": "8",
+        "nev": "Zellerkrémleves",
+        "ar": "790.00",
+        "etel": "1",
+        "kategoriaId": "2"
+    },
+    {
+        "id": "9",
+        "nev": "Bolognai spagetti",
+        "ar": "1990.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "10",
+        "nev": "Carbonara",
+        "ar": "1990.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "11",
+        "nev": "Papardelle kéksajtmártással",
+        "ar": "1990.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "12",
+        "nev": "Camambert sajt áfonyával",
+        "ar": "1290.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "13",
+        "nev": "Rántott sajt  tartárral",
+        "ar": "1290.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "14",
+        "nev": "Hamburger menü",
+        "ar": "2590.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "15",
+        "nev": "Sajtburger",
+        "ar": "1690.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "16",
+        "nev": "Rántott csirkecomb filé ",
+        "ar": "1790.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "17",
+        "nev": "Grillezett csirkemell",
+        "ar": "2390.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "18",
+        "nev": "Rántott csirkemell",
+        "ar": "1790.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "19",
+        "nev": "Cordon bleu",
+        "ar": "2390.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "20",
+        "nev": "Kijevi jércemell vajjal töltve",
+        "ar": "2390.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "21",
+        "nev": "Rántott karaj ",
+        "ar": "1790.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "22",
+        "nev": "Óriás bécsi szelet",
+        "ar": "2390.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "23",
+        "nev": "Hátszín steak",
+        "ar": "4990.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "24",
+        "nev": "Csülök pékné módra",
+        "ar": "2990.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "25",
+        "nev": "Ropogós kacsacomb  ",
+        "ar": "2990.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "26",
+        "nev": "Szűzérmék erdei gombamártással",
+        "ar": "2890.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "27",
+        "nev": "Marha pörkölt",
+        "ar": "2390.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "28",
+        "nev": "Lazac steak",
+        "ar": "2390.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "29",
+        "nev": "Hekk 10 dkg",
+        "ar": "490.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "30",
+        "nev": "Brassói aprópecenye",
+        "ar": "2490.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "31",
+        "nev": "Mézes-mustáros csirkemell",
+        "ar": "1990.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "32",
+        "nev": "Vasalt csirkecombfilé ",
+        "ar": "1790.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "33",
+        "nev": "Pisztráng ",
+        "ar": "2990.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "34",
+        "nev": "Parmezános csirkemell",
+        "ar": "2100.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "35",
+        "nev": "Fish and chips ",
+        "ar": "2590.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "36",
+        "nev": "Fogas filé ",
+        "ar": "2890.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "37",
+        "nev": "Hasábburgonya",
+        "ar": "690.00",
+        "etel": "1",
+        "kategoriaId": "4"
+    },
+    {
+        "id": "38",
+        "nev": "Csemeg uborka",
+        "ar": "590.00",
+        "etel": "1",
+        "kategoriaId": "5"
+    },
+    {
+        "id": "39",
+        "nev": "Ecetes alma paprika",
+        "ar": "590.00",
+        "etel": "1",
+        "kategoriaId": "5"
+    },
+    {
+        "id": "40",
+        "nev": "Házi káposzta saláta",
+        "ar": "590.00",
+        "etel": "1",
+        "kategoriaId": "5"
+    },
+    {
+        "id": "41",
+        "nev": "Tejfölös uborka saláta",
+        "ar": "590.00",
+        "etel": "1",
+        "kategoriaId": "5"
+    },
+    {
+        "id": "42",
+        "nev": "Uborka saláta ",
+        "ar": "590.00",
+        "etel": "1",
+        "kategoriaId": "5"
+    },
+    {
+        "id": "43",
+        "nev": "cékla",
+        "ar": "590.00",
+        "etel": "1",
+        "kategoriaId": "5"
+    },
+    {
+        "id": "44",
+        "nev": "Cézár saláta",
+        "ar": "1790.00",
+        "etel": "1",
+        "kategoriaId": "1"
+    },
+    {
+        "id": "45",
+        "nev": "Túrógombóc háziasan édes tejföllel, áfonyával",
+        "ar": "1390.00",
+        "etel": "1",
+        "kategoriaId": "6"
+    },
+    {
+        "id": "46",
+        "nev": "Csokoládé szuflé",
+        "ar": "990.00",
+        "etel": "1",
+        "kategoriaId": "6"
+    },
+    {
+        "id": "47",
+        "nev": "Palacsinta",
+        "ar": "300.00",
+        "etel": "1",
+        "kategoriaId": "6"
+    },
+    {
+        "id": "48",
+        "nev": "Bögrében sült paradicsomos tészta",
+        "ar": "1390.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "49",
+        "nev": "Lecsó kolbászcsipsszel",
+        "ar": "1390.00",
+        "etel": "1",
+        "kategoriaId": "3"
+    },
+    {
+        "id": "51",
+        "nev": "Almalé 0,33",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "52",
+        "nev": "Limonádé  0,3 dl",
+        "ar": "590.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "53",
+        "nev": "Limonádé 0,5 dl",
+        "ar": "790.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "54",
+        "nev": "Szóda",
+        "ar": "50.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "55",
+        "nev": "Cola 0,5",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "56",
+        "nev": "Cola 0,25",
+        "ar": "390.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "57",
+        "nev": "Gyömbér 0,25",
+        "ar": "390.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "58",
+        "nev": "Tonic 0,25",
+        "ar": "390.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "59",
+        "nev": "Cola Zéro 0,5",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "60",
+        "nev": "Cola Zéro 0,25",
+        "ar": "390.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "61",
+        "nev": "Fanta 0,5",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "62",
+        "nev": "Fanta 0,25",
+        "ar": "390.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "63",
+        "nev": "Cola Zéro Citrom 0,5",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "64",
+        "nev": "Őszilé 0,33",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "65",
+        "nev": "Narancslé 0,33 l",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "66",
+        "nev": "Ásványvíz mentes 0,5",
+        "ar": "290.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "67",
+        "nev": "Ásványvíz szénsavas 0,5 l",
+        "ar": "290.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "68",
+        "nev": "Cola light 0,5",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "69",
+        "nev": "Jack Daniels 5 cl",
+        "ar": "1120.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "70",
+        "nev": "Házi szörp dl",
+        "ar": "150.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "71",
+        "nev": "Házi jeges tea",
+        "ar": "390.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "72",
+        "nev": "Ásványvíz mentes 0,25",
+        "ar": "250.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "73",
+        "nev": "Powerade",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "8"
+    },
+    {
+        "id": "75",
+        "nev": "Pilsner korsó",
+        "ar": "750.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "76",
+        "nev": "Pilsner pohár",
+        "ar": "450.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "77",
+        "nev": "Dreher korsó",
+        "ar": "590.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "78",
+        "nev": "Dreher pohár",
+        "ar": "360.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "79",
+        "nev": "Dreher üveges",
+        "ar": "590.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "80",
+        "nev": "Dreher 24",
+        "ar": "590.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "81",
+        "nev": "Dreher pale ale",
+        "ar": "590.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "82",
+        "nev": "Heineken",
+        "ar": "610.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "83",
+        "nev": "Heineken 0,33 l",
+        "ar": "510.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "84",
+        "nev": "Heineken 0,0 %",
+        "ar": "510.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "85",
+        "nev": "Edelweis",
+        "ar": "990.00",
+        "etel": "0",
+        "kategoriaId": "9"
+    },
+    {
+        "id": "86",
+        "nev": "Rosé ",
+        "ar": "290.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "87",
+        "nev": "Rosé hosszú lépés",
+        "ar": "290.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "88",
+        "nev": "Rosé vice házmester",
+        "ar": "580.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "89",
+        "nev": "Rosé házmester",
+        "ar": "870.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "90",
+        "nev": "Fehér nagyfröccs",
+        "ar": "580.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "91",
+        "nev": "Fehér bor ",
+        "ar": "290.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "92",
+        "nev": "Vörös ",
+        "ar": "290.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "93",
+        "nev": "Löwenbrau",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "94",
+        "nev": "Almalé szűretlen",
+        "ar": "550.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "95",
+        "nev": "Fröccs",
+        "ar": "100.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "96",
+        "nev": "Forralt bor",
+        "ar": "690.00",
+        "etel": "0",
+        "kategoriaId": "10"
+    },
+    {
+        "id": "100",
+        "nev": "Finlandia , finlandia ízek 5 cl",
+        "ar": "740.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "101",
+        "nev": "Unicum, next szilvás 3 cl",
+        "ar": "440.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "102",
+        "nev": "Unicum, next szilvás 5 cl",
+        "ar": "730.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "103",
+        "nev": "Jagermaister 3 cl",
+        "ar": "440.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "104",
+        "nev": "Jagermaister 5 cl",
+        "ar": "730.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "105",
+        "nev": "Becherovka 3cl",
+        "ar": "480.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "106",
+        "nev": "Ballantines 5 cl",
+        "ar": "800.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "107",
+        "nev": "Johnie walker 5 cl",
+        "ar": "780.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "108",
+        "nev": "Jameson 5 cl",
+        "ar": "1050.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "109",
+        "nev": "Metaxxa * * * * *  5 cl",
+        "ar": "890.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "110",
+        "nev": "Martini ",
+        "ar": "640.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "111",
+        "nev": "Ördögi pálinkák 3 cl",
+        "ar": "600.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "112",
+        "nev": "Ördögi pálinkák 5 cl",
+        "ar": "990.00",
+        "etel": "0",
+        "kategoriaId": "11"
+    },
+    {
+        "id": "114",
+        "nev": "Capuccino",
+        "ar": "390.00",
+        "etel": "0",
+        "kategoriaId": "12"
+    },
+    {
+        "id": "115",
+        "nev": "Hosszú kávé ",
+        "ar": "350.00",
+        "etel": "0",
+        "kategoriaId": "12"
+    },
+    {
+        "id": "116",
+        "nev": "Esspresso ",
+        "ar": "350.00",
+        "etel": "0",
+        "kategoriaId": "12"
+    },
+    {
+        "id": "117",
+        "nev": "Cafe Latte 2dl",
+        "ar": "490.00",
+        "etel": "0",
+        "kategoriaId": "12"
+    },
+    {
+        "id": "118",
+        "nev": "Latte macchiato 3dl",
+        "ar": "590.00",
+        "etel": "0",
+        "kategoriaId": "12"
+    },
+    {
+        "id": "119",
+        "nev": "Tea ",
+        "ar": "390.00",
+        "etel": "0",
+        "kategoriaId": "12"
+    },
+    {
+        "id": "120",
+        "nev": "Forró csoki",
+        "ar": "690.00",
+        "etel": "0",
+        "kategoriaId": "12"
+    }
+]
